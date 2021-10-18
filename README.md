@@ -10,6 +10,7 @@ Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de n�
 - [Legislação Nacional Relevante](#legislação-nacional-relevante)
 - [Legislação Internacional Relevante](#legislação-internacional-relevante)
 - [Guias Orientativos](#guias-orientativos)
+- [Frameworks de Segurança da Informação e Privacidade](#frameworks-de-segurança-da-informação-e-privacidade)
 
 
 ## Legislação Nacional Relevante
@@ -30,3 +31,7 @@ Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de n�
   - [Fascículo Vazamento de Dados](https://cartilha.cert.br/fasciculos/vazamento-de-dados/fasciculo-vazamento-de-dados.pdf) - Fascículo da Cartilha de Segurança para Internet que trata sobre ações que o usuário deve tomar para minimizar o impacto de vazamento de dados
   - [Fascículo Proteção de Dados](https://cartilha.cert.br/fasciculos/protecao-de-dados/fasciculo-protecao-de-dados.pdf) - Fascículo da Cartilha de Segurança para Internet que trata sobre a adoção de uma postura preventiva, uso de mecanismos de segurança adequados e a legislação vigente para garantir diretos
   
+## Frameworks de Segurança da Informação e Privacidade
+
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework)
+- [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
