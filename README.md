@@ -35,3 +35,7 @@ Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de n�
 
 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework)
 - [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
+- [ISO/IEC 27002:2013](https://www.iso.org/standard/54533.html)
+- [ISO/IEC 27005:2018](https://www.iso.org/standard/75281.html)
+- [ISO/IEC 31000:2018](https://www.iso.org/standard/65694.html)
+- [ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html)
