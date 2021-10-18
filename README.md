@@ -17,6 +17,7 @@ Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de n�
 - [Decreto nº 10.474 de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10474.htm) - Define a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Autoridade Nacional de Proteção de Dados - ANPD
 - [Lei nº 12.965 de 2014](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm) - Dispõe o Marco Civil da Internet
 - [Decreto nº 8.771 de 2016](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Decreto/D8771.htm) - Indica procedimentos para guarda e proteção de dados por provedores de conexão e de aplicações e aponta medidas de transparência na requisição de dados cadastrais pela administração pública
+- [Código de Defesa do Consumidor](https://www2.senado.leg.br/bdsf/bitstream/handle/id/533814/cdc_e_normas_correlatas_2ed.pdf) - Coletânea de dispositivos constitucionais, códigos e leis principais relativos ao direito do consumidor
 
 ## Legislação Internacional Relevante
 - [Regulamento (EU) 2016/679](https://gdprinfo.eu/pt-pt) - Regulamento Geral sobre a Proteção de Dados (GPDR)
