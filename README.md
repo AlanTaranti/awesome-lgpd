@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License Creative Commons Attribution Share Alike 4.0 International](https://img.shields.io/badge/license-CC%20BY--SA-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de nº 13.709/2018.
+Uma lista curada sobre a Lei Geral de Proteção de Dados Pessoais (LGPD) e assuntos correlatos.
 
 # Conteúdos
 
