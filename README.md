@@ -33,7 +33,7 @@ Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de n�
   
 ## Frameworks de Segurança da Informação e Privacidade
 
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework)
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework) - Uma framework aberto para melhorar a privacidade por meio do gerenciamento de riscos corporativos
 - [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
 - [ISO/IEC 27002:2013](https://www.iso.org/standard/54533.html)
 - [ISO/IEC 27005:2018](https://www.iso.org/standard/75281.html)
