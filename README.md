@@ -33,9 +33,8 @@ Awesome List sobre a Lei Geral de Proteção de Dados Pessoais (LGPD), lei de n�
   
 ## Frameworks de Segurança da Informação e Privacidade
 
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework) - Uma framework aberto para melhorar a privacidade por meio do gerenciamento de riscos corporativos
-- [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html)
-- [ISO/IEC 27002:2013](https://www.iso.org/standard/54533.html)
-- [ISO/IEC 27005:2018](https://www.iso.org/standard/75281.html)
-- [ISO/IEC 31000:2018](https://www.iso.org/standard/65694.html)
-- [ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html)
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework/privacy-framework) - Um framework aberto para melhorar a privacidade por meio do gerenciamento de riscos corporativos
+- [ISO/IEC 27001:2013](https://www.iso.org/standard/54534.html) - Framework que especifica os requisitos para estabelecer, implementar, manter e melhorar continuamente um SGSI (Sistema de Gestão de Segurança da Informação) dentro do contexto da organização
+- [ISO/IEC 27002:2013](https://www.iso.org/standard/54533.html) - Estipula melhores práticas para apoiar a implantação do SGSI, com diretrizes para práticas de  gestão de segurança da informação e normas de segurança da informação para as organizações
+- [ISO/IEC 27005:2018](https://www.iso.org/standard/75281.html) - Apresenta  diretrizes  para  o  processo  de  gestão  de  riscos  de  segurança  da informação de uma organização, atendendo particularmente aos requisitos de um SGSI
+- [ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html) -  Especifica  os  requisitos  e  fornece  as  diretrizes  para  o  estabelecimento, implementação,  manutenção  e  melhoria  contínua  de  um  SGPI (Sistema  de  Gestão  de  Privacidade  da  Informação)
