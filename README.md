@@ -12,6 +12,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Guias Orientativos](#guias-orientativos)
 - [Frameworks de Segurança da Informação e Privacidade](#frameworks-de-segurança-da-informação-e-privacidade)
 - [Organizações e Projetos](#organizações-e-projetos)
+- [Licença](#licença)
 
 
 ## Legislação Nacional Relevante
@@ -63,3 +64,7 @@ um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicaçã
 - Internacionais
   - [Eletronic Frontier Foundation](https://www.eff.org/) - Organização sem fins lucrativos que defende as liberdades civis no mundo digital
   - [International Association of Privacy Professionals](https://iapp.org/) - Comunidade global de profissionais de privacidade
+
+## Licença
+
+[![ CC BY-SA ](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
