@@ -49,6 +49,7 @@ Uma lista curada sobre a Lei Geral de Proteção de Dados Pessoais (LGPD) e assu
 - [ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html) -  Especifica  os  requisitos  e  fornece  as  diretrizes  para  o  estabelecimento, implementação,  manutenção  e  melhoria  contínua  de  um  SGPI (Sistema  de  Gestão  de  Privacidade  da  Informação)
 - [ISO/IEC 29100:2011](https://www.iso.org/standard/45123.html) - Estipula bases conceituais e orienta sobre medidas técnicas no desenvolvimento de
 um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicação)
+- [ISO/IEC 29134:2017](https://www.iso.org/standard/62289.html) - Orienta a avaliação de impactos de privacidade e elaboração do Relatório de Impacto à Proteção de Dados
 
 
 ## Organizações e Projetos
