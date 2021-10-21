@@ -38,8 +38,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
   - [Guia de Resposta a Incidentes de Segurança](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_resposta_incidentes.pdf) - Apresenta melhores práticas para adequação da Administração Pública Federal para resposta a incidentes de segurança e proteção de dados pessoais
   - [Guide to Basic Data Anonymisation Techniques](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-to-Anonymisation_v1-(250118).pdf) - Guia da Comissão de Proteção de Dados de Singapura que introduz os aspectos técnicos de anonimização de dados 
 - Usuários
-  - [Fascículo Vazamento de Dados](https://cartilha.cert.br/fasciculos/vazamento-de-dados/fasciculo-vazamento-de-dados.pdf) - Fascículo da Cartilha de Segurança para Internet que trata sobre ações que o usuário deve tomar para minimizar o impacto de vazamento de dados
-  - [Fascículo Proteção de Dados](https://cartilha.cert.br/fasciculos/protecao-de-dados/fasciculo-protecao-de-dados.pdf) - Fascículo da Cartilha de Segurança para Internet que trata sobre a adoção de uma postura preventiva, uso de mecanismos de segurança adequados e a legislação vigente para garantir diretos
+  - [Cartilha de Segurança para Internet](https://cartilha.cert.br/) - Documentos com recomendações e dicas sobre como o usuário de Internet deve se comportar para aumentar a sua segurança e se proteger de possíveis ameaças
 
 
 ## Frameworks de Segurança da Informação e Privacidade
