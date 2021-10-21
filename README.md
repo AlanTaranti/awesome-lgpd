@@ -27,7 +27,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 
 ## Guias Orientativos
 - Agentes de Tratamento
-  - [Gua Orientativo para Definições dos Agentes de Tratamento de Dados Pessoais e do Encarregado](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/2021.05.27GuiaAgentesdeTratamento_Final.pdf) - Guia que procura esclarecer os papéis dos agentes de tratamento em encarregados de proteção de dados pessoais.
+  - [Guia Orientativo para Definições dos Agentes de Tratamento de Dados Pessoais e do Encarregado](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/2021.05.27GuiaAgentesdeTratamento_Final.pdf) - Guia que procura esclarecer os papéis dos agentes de tratamento em encarregados de proteção de dados pessoais.
   - [Guia Orientativo de Segurança da Informação para Agentes de Tratamento de Pequeno Porte](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/guia-vf.pdf) - Guia que apresenta boas práticas e medidas básicas de segurança da informação para apoiar os agentes de tratamento de pequeno porte referente ao tratamento de dados pessoais
   - [Guia de Boas Práticas para Implementação da LGPD na Administração Pública Federal](https://www.gov.br/governodigital/pt-br/sisp/secretaria-de-governo-digital-sgd) - Guia orientativo sobre boas práticas para implementação da LGPD na Administração Pública Federal
   - [Guia de Elaboração de Programa de Governança em Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_governanca_privacidade.pdf) - Orienta a elaboração de um Programa de Governança em Privacidade por órgãos e entidades da Administração Pública Federal
