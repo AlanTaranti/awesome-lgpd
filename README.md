@@ -69,6 +69,7 @@ um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicaçã
   - [Comissão Nacional de Proteção de Dados - Portugal](https://www.cnpd.pt/) - Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR em Portugal 
   - [Eletronic Frontier Foundation](https://www.eff.org/) - Organização sem fins lucrativos que defende as liberdades civis no mundo digital
   - [International Association of Privacy Professionals](https://iapp.org/) - Comunidade global de profissionais de privacidade
+  - [Information Commissioner's Office](https://ico.org.uk/) - Órgão independente do Reino Unido criado para defender os direitos de informação
 
 ## Licença
 
