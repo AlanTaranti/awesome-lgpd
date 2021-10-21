@@ -11,6 +11,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Legislação Internacional Relevante](#legislação-internacional-relevante)
 - [Guias Orientativos](#guias-orientativos)
 - [Frameworks de Segurança da Informação e Privacidade](#frameworks-de-segurança-da-informação-e-privacidade)
+- [Relatórios](#relatórios)
 - [Organizações e Projetos](#organizações-e-projetos)
 - [Licença](#licença)
 
@@ -51,6 +52,9 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [ISO/IEC 29100:2011](https://www.iso.org/standard/45123.html) - Estipula bases conceituais e orienta sobre medidas técnicas no desenvolvimento de
 um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicação)
 - [ISO/IEC 29134:2017](https://www.iso.org/standard/62289.html) - Orienta a avaliação de impactos de privacidade e elaboração do Relatório de Impacto à Proteção de Dados
+
+## Relatórios
+- [Proteção de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/08/Relatorio-Boas-Praticas-Criancas-e-Adolescentes.pdf) - Relatório da ITS Rio sobre o cenário brasileiro e experiências internacionais em relação a proteção de dados de crianças e adolescentes
 
 
 ## Organizações e Projetos
