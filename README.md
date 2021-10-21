@@ -66,6 +66,7 @@ um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicaçã
   - [Data Privacy Brasil](https://dataprivacy.com.br/) - Intersecção entre o ensino e a pesquisa na área da privacidade e proteção de dados
   - [Direitos na Rede](https://direitosnarede.org.br/) - Rede de entidades de organizações acadêmicas e da sociedade civil em defesa dos direitos digitais
 - Internacionais
+  - [Comissão Nacional de Proteção de Dados - Portugal](https://www.cnpd.pt/) - Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR em Portugal 
   - [Eletronic Frontier Foundation](https://www.eff.org/) - Organização sem fins lucrativos que defende as liberdades civis no mundo digital
   - [International Association of Privacy Professionals](https://iapp.org/) - Comunidade global de profissionais de privacidade
 
