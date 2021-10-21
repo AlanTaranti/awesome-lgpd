@@ -57,6 +57,7 @@ um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicaçã
 
 ## Relatórios
 - [Proteção de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/08/Relatorio-Boas-Praticas-Criancas-e-Adolescentes.pdf) - Relatório da ITS Rio sobre o cenário brasileiro e experiências internacionais em relação a proteção de dados de crianças e adolescentes
+- [Proteção de Dados Pessoais em Políticas de Proteção Social](https://www.internetlab.org.br/wp-content/uploads/2021/10/Protecao-de-Dados-Pessoais-em-Politicas-de-Protecao-Social.pdf) - Relatório do InternetLab com recomendações que buscam avançar o debate em torno de questões de dados e privacidade em programas de proteção social
 
 
 ## Organizações e Projetos
