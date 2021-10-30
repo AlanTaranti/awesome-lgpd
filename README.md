@@ -51,7 +51,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Proteção de Dados Pessoais em Políticas de Proteção Social](https://www.internetlab.org.br/wp-content/uploads/2021/10/Protecao-de-Dados-Pessoais-em-Politicas-de-Protecao-Social.pdf) - Relatório do InternetLab com recomendações que buscam avançar o debate em torno de questões de dados e privacidade em programas de proteção social
 
 ## Livros
-- [Privacidade-e-Protecao-de-Dados-de-Crianças-e-Adolescentes](https://itsrio.org/wp-content/uploads/2021/10/Privacidade-e-Protecao-de-Dados-de-Crian%C3%A7as-e-Adolescentes-ITS.pdf) - Livro da ITS Rio que trata sobre os desafios e a legislação sobre a proteção de dados de crianças e adolescentes
+- [Privacidade e Protecao de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/10/Privacidade-e-Protecao-de-Dados-de-Crian%C3%A7as-e-Adolescentes-ITS.pdf) - Livro da ITS Rio que trata sobre os desafios e a legislação sobre a proteção de dados de crianças e adolescentes
 
 
 ## Frameworks de Segurança da Informação e Privacidade
