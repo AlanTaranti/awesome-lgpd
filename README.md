@@ -10,8 +10,9 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Legislação Nacional Relevante](#legislação-nacional-relevante)
 - [Legislação Internacional Relevante](#legislação-internacional-relevante)
 - [Guias Orientativos](#guias-orientativos)
-- [Frameworks de Segurança da Informação e Privacidade](#frameworks-de-segurança-da-informação-e-privacidade)
 - [Relatórios](#relatórios)
+- [Livros](#livros)
+- [Frameworks de Segurança da Informação e Privacidade](#frameworks-de-segurança-da-informação-e-privacidade)
 - [Cursos](#cursos)
 - [Organizações e Projetos](#organizações-e-projetos)
 - [Licença](#licença)
@@ -45,6 +46,13 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - Usuários
   - [Cartilha de Segurança para Internet](https://cartilha.cert.br/) - Documentos com recomendações e dicas sobre como o usuário de Internet deve se comportar para aumentar a sua segurança e se proteger de possíveis ameaças
 
+## Relatórios
+- [Boas Práticas: Proteção de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/08/Relatorio-Boas-Praticas-Criancas-e-Adolescentes.pdf) - Relatório da ITS Rio sobre o cenário brasileiro e experiências internacionais em relação a proteção de dados de crianças e adolescentes
+- [Proteção de Dados Pessoais em Políticas de Proteção Social](https://www.internetlab.org.br/wp-content/uploads/2021/10/Protecao-de-Dados-Pessoais-em-Politicas-de-Protecao-Social.pdf) - Relatório do InternetLab com recomendações que buscam avançar o debate em torno de questões de dados e privacidade em programas de proteção social
+
+## Livros
+- [Privacidade-e-Protecao-de-Dados-de-Crianças-e-Adolescentes](https://itsrio.org/wp-content/uploads/2021/10/Privacidade-e-Protecao-de-Dados-de-Crian%C3%A7as-e-Adolescentes-ITS.pdf) - Livro da ITS Rio que trata sobre os desafios e a legislação sobre a proteção de dados de crianças e adolescentes
+
 
 ## Frameworks de Segurança da Informação e Privacidade
 
@@ -56,10 +64,6 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [ISO/IEC 29100:2011](https://www.iso.org/standard/45123.html) - Estipula bases conceituais e orienta sobre medidas técnicas no desenvolvimento de
 um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicação)
 - [ISO/IEC 29134:2017](https://www.iso.org/standard/62289.html) - Orienta a avaliação de impactos de privacidade e elaboração do Relatório de Impacto à Proteção de Dados
-
-## Relatórios
-- [Proteção de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/08/Relatorio-Boas-Praticas-Criancas-e-Adolescentes.pdf) - Relatório da ITS Rio sobre o cenário brasileiro e experiências internacionais em relação a proteção de dados de crianças e adolescentes
-- [Proteção de Dados Pessoais em Políticas de Proteção Social](https://www.internetlab.org.br/wp-content/uploads/2021/10/Protecao-de-Dados-Pessoais-em-Politicas-de-Protecao-Social.pdf) - Relatório do InternetLab com recomendações que buscam avançar o debate em torno de questões de dados e privacidade em programas de proteção social
 
 ## Cursos
 - [Fundamentos da Lei Geral de Proteção de Dados](https://www.escolavirtual.gov.br/curso/603) - Curso da SERPRO na Escola Virtual Gov que apresenta os conceitos gerais da LGPD e os impactos desta Lei em processos rotineiros de pessoas e empresas
