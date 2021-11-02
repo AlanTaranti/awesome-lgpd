@@ -1,0 +1,31 @@
+titulo: Legislação Nacional Relevante
+conteudo:
+  - titulo: Lei n° 13.709 de 2018
+    link: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+    descricao: >
+      Dispõe sobre a Lei Geral de Proteção de Dados Pessoais
+
+  - titulo: Decreto nº 10.474 de 2020
+    link: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/D10474.htm
+    descricao: >
+      Define a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Autoridade Nacional de Proteção de Dados - ANPD
+
+  - titulo: Resolução ANPD nº 1 de 2021
+    link: https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-1-de-28-de-outubro-de-2021-355817513
+    descricao: >
+      Dispõe sobre Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador no âmbito da Autoridade Nacional de Proteção de Dados
+
+  - titulo: Lei nº 12.965 de 2014
+    link: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+    descricao: >
+      Dispõe sobre o Marco Civil da Internet
+
+  - titulo: Decreto nº 8.771 de 2016
+    link: http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Decreto/D8771.htm
+    descricao: >
+      Indica procedimentos para guarda e proteção de dados por provedores de conexão e de aplicações e aponta medidas de transparência na requisição de dados cadastrais pela administração pública
+
+  - titulo: Código de Defesa do Consumidor
+    link: https://www2.senado.leg.br/bdsf/bitstream/handle/id/533814/cdc_e_normas_correlatas_2ed.pdf
+    descricao: >
+      Coletânea de dispositivos constitucionais, códigos e leis principais relativos ao direito do consumidor
