@@ -21,4 +21,6 @@ const dadosTratados = dados.map((dado) => {
   return dado;
 });
 
+dadosTratados.sort((a, b) => a.ordem - b.ordem);
+
 module.exports = dadosTratados;
