@@ -17,7 +17,7 @@ const secoes = dados.map((categoria) => {
     .join("\n");
 
   return `## ${categoria.titulo}\n\n${itens}`;
-});
+}).join('\n\n');
 
 let conteudoReadme = fs.readFileSync(template).toString();
 conteudoReadme = conteudoReadme.replace("#PLACEHOLDER_SUMARIO#", sumario);
