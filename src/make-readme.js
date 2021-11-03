@@ -24,6 +24,4 @@ let conteudoReadme = fs.readFileSync(template).toString();
 conteudoReadme = conteudoReadme.replace("#PLACEHOLDER_SUMARIO#", sumario);
 conteudoReadme = conteudoReadme.replace("#PLACEHOLDER_CATEGORIAS#", secoes);
 
-console.log(conteudoReadme);
-
 fs.writeFileSync(readme, conteudoReadme);
