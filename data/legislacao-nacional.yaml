@@ -1,5 +1,6 @@
 titulo: Legislação Nacional Relevante
 slug: legislação-nacional-relevante
+ordem: 1
 conteudo:
   - titulo: Lei n° 13.709 de 2018
     link: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
