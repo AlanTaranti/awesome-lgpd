@@ -9,7 +9,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 
 #PLACEHOLDER_SUMARIO#
 
-- [License](#license)
+- [Licença](#licença)
 
 #PLACEHOLDER_CATEGORIAS#
 
