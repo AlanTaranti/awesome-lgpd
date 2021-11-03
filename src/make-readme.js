@@ -12,7 +12,15 @@ const sumario = dados
 const secoes = dados.map((categoria) => {
   const itens = categoria.conteudo
     .map((item) => {
-      return `- [${item.titulo}](${item.link}) - ${item.descricao}`;
+
+      if (!item.conteudo) {
+        return `- [${item.titulo}](${item.link}) - ${item.descricao}`;
+      }
+
+      const subItens = item.conteudo.map(item => `  - [${item.titulo}](${item.link}) - ${item.descricao}`).join("")
+
+      return `- ${item.titulo}\n${subItens}`;
+      
     })
     .join("");
 
