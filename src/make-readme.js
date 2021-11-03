@@ -14,13 +14,13 @@ const secoes = dados.map((categoria) => {
     .map((item) => {
       return `- [${item.titulo}](${item.link}) - ${item.descricao}`;
     })
-    .join("\n");
+    .join("");
 
   return `## ${categoria.titulo}\n\n${itens}`;
 }).join('\n\n');
 
 let conteudoReadme = fs.readFileSync(template).toString();
-conteudoReadme = conteudoReadme.replace("#PLACEHOLDER_SUMARIO#", sumario);
+conteudoReadme = conteudoReadme.replace("- #PLACEHOLDER_SUMARIO#", sumario);
 conteudoReadme = conteudoReadme.replace("#PLACEHOLDER_CATEGORIAS#", secoes);
 
 fs.writeFileSync(readme, conteudoReadme);
