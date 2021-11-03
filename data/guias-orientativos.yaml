@@ -1,0 +1,58 @@
+titulo: Guias Orientativos
+slug: guias-orientativos
+ordem: 3
+conteudo:
+  - titulo: Agentes de Tratamento
+    conteudo:
+      - titulo: Guia Orientativo para Definições dos Agentes de Tratamento de Dados Pessoais e do Encarregado
+        link: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/2021.05.27GuiaAgentesdeTratamento_Final.pdf
+        descricao: >
+          Guia que procura esclarecer os papéis dos agentes de tratamento em encarregados de proteção de dados pessoais
+      - titulo: Guia Orientativo de Segurança da Informação para Agentes de Tratamento de Pequeno Porte
+        link: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/guia-vf.pdf
+        descricao: >
+          Guia que apresenta boas práticas e medidas básicas de segurança da informação para apoiar os agentes de tratamento de pequeno porte referente ao tratamento de dados pessoais
+      - titulo: Guia de Boas Práticas para Implementação da LGPD na Administração Pública Federal
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_lgpd.pdf
+        descricao: >
+          Guia orientativo sobre boas práticas para implementação da LGPD na Administração Pública Federal
+      - titulo: Guia de Elaboração de Programa de Governança em Privacidade
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_governanca_privacidade.pdf
+        descricao: >
+          Orienta a elaboração de um Programa de Governança em Privacidade por órgãos e entidades da Administração Pública Federal
+      - titulo: Guia de Elaboração de Inventário de Dados Pessoais
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_inventario_dados_pessoais.pdf
+        descricao: >
+          Apresenta orientações para auxiliar os órgãos e entidades da Administração Pública Federal a realizar o levantamento e registro dos dados pessoais tratados no âmbito institucional
+      - titulo: Guia de elaboração de Termo de Uso e Política de Privacidade para Serviços Públicos
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_tupp.pdf
+        descricao: >
+          Orienta a elaboração de Termos de Uso e Políticas de Privacidade para serviços públicos fornecidos por órgãos e entidades da administração pública
+      - titulo: Guia de Requisitos e de Obrigações quanto a Segurança da Informação e Privacidade
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_requisitos_obrigacoes.pdf
+        descricao: >
+          Orienta as instituições públicas para a especificação de requisitos mínimos necessários de Segurança da Informação e Privacidade em contratações de Soluções de Tecnologia da Informação
+      - titulo: Guia de Avaliação de Riscos de Segurança e Privacidade
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_avaliacao_riscos.pdf
+        descricao: >
+          Orienta a identificação das lacunas de segurança da informação e de privacidade nos sistemas, contratos e processos da instituição
+      - titulo: Guia de Resposta a Incidentes de Segurança
+        link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_resposta_incidentes.pdf
+        descricao: >
+          Apresenta melhores práticas para adequação da Administração Pública Federal para resposta a incidentes de segurança e proteção de dados pessoais
+      - titulo: Guide to Basic Data Anonymisation Techniques
+        link: https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-to-Anonymisation_v1-(250118).pdf
+        descricao: >
+          Guia da Comissão de Proteção de Dados de Singapura que introduz os aspectos técnicos de anonimização de dados
+  - titulo: Sociedade
+    conteudo:
+      - titulo: A importância social e econômica da criptografia
+        link: https://cartilhacriptografia.direitosnarede.org.br/cartilhacriptografia.pdf
+        descricao: >
+          Cartilha da Coalizão Direitos na Rede para instruir a sociedade e os formuladores de políticas a respeito da importância social e econômica da criptografia e alertar para os riscos relacionados ao seu enfraquecimento
+  - titulo: Usuários
+    conteudo:
+      - titulo: Cartilha de Segurança para Internet
+        link: https://cartilha.cert.br/
+        descricao: >
+          Documentos com recomendações e dicas sobre como o usuário de Internet deve se comportar para aumentar a sua segurança e se proteger de possíveis ameaças
