@@ -2,7 +2,6 @@ const fs = require("fs");
 const path = require("path");
 
 const dados = require("./data");
-const Console = require("console");
 const readme = path.join(__dirname, "../README.md");
 const template = path.join(__dirname, "readme-template.md");
 
