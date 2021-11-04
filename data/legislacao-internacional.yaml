@@ -1,0 +1,8 @@
+titulo: Legislação Internacional Relevante
+slug: legislação-internacional-relevante
+ordem: 2
+conteudo:
+  - titulo: Regulamento (EU) 2016/679
+    link: https://gdprinfo.eu/pt-pt
+    descricao: >
+      Regulamento Geral sobre a Proteção de Dados (GPDR)
