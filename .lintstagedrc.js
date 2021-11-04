@@ -1,3 +1,3 @@
 module.exports = {
-  "*.(md|yml|yaml|json)": ["prettier --write"],
+  "*.(yml|yaml|json)": ["prettier --write"],
 };
