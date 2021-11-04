@@ -22,7 +22,8 @@ conteudo:
           Intersecção entre o ensino e a pesquisa na área da privacidade e proteção de dados
       - titulo: Direitos na Rede
         link: https://direitosnarede.org.br/
-        descricao: Rede de entidades de organizações acadêmicas e da sociedade civil em defesa dos direitos digitais
+        descricao: >
+          Rede de entidades de organizações acadêmicas e da sociedade civil em defesa dos direitos digitais
   - titulo: Internacionais
     conteudo:
       - titulo: Global Privacy Enforcement
@@ -35,14 +36,17 @@ conteudo:
           Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR em Portugal
       - titulo: European Data Protection Supervisor
         link: https://edps.europa.eu/
-        descricao: Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR da União Européia
+        descricao: >
+          Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR da União Européia
       - titulo: Eletronic Frontier Foundation
         link: https://www.eff.org/
-        descricao: Organização sem fins lucrativos que defende as liberdades civis no mundo digital
+        descricao: >
+          Organização sem fins lucrativos que defende as liberdades civis no mundo digital
       - titulo: International Association of Privacy Professionals
         link: https://iapp.org/
         descricao: >
           Comunidade global de profissionais de privacidade
       - titulo: Information Commissioner's Office
         link: https://ico.org.uk/
-        descricao: Órgão independente do Reino Unido criado para defender os direitos de informação
+        descricao: >
+          Órgão independente do Reino Unido criado para defender os direitos de informação
