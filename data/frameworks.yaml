@@ -30,3 +30,7 @@ conteudo:
     link: https://www.iso.org/standard/62289.html
     descricao: >
       Orienta a avaliação de impactos de privacidade e elaboração do Relatório de Impacto à Proteção de Dados
+  - titulo: Framework de Privacidade da OECD
+    link: https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf
+    descricao: >
+      Diretrizes da OECD sobre a Proteção da Privacidade e Fluxos Transfronteiriços de Dados Pessoais
