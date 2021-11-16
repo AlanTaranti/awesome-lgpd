@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados",
   "scripts": {
-    "lint": "prettier --write ."
+    "lint": "prettier --write .",
+    "build": "node src/make-readme.js"
   },
   "repository": {
     "type": "git",
