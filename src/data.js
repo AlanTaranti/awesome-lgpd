@@ -1,26 +1,51 @@
 const fs = require("fs");
+const process = require("process");
 const { join } = require("path");
 const yaml = require("node-yaml");
 
 const diretorioDados = join(__dirname, "../data");
 
-const arquivos = fs.readdirSync(diretorioDados);
-const filepaths = arquivos.map((arquivo) => join(diretorioDados, arquivo));
-const dados = filepaths.map((arquivo) => yaml.readSync(arquivo));
-
-const dadosTratados = dados.map((dado) => {
-  dado.tipo = "categoria";
-
-  dado.conteudo = dado.conteudo.map((conteudo) => {
-    conteudo.categoria = dado.slug;
-    conteudo.titulo = conteudo.titulo.trim();
-
-    return conteudo;
-  });
-
-  return dado;
+const capitulos = fs.readdirSync(diretorioDados);
+const capitulosFilepaths = capitulos.map((capitulo) =>
+  join(diretorioDados, capitulo)
+);
+const arquivosFilepaths = capitulosFilepaths.map((capituloFilepath) => {
+  const arquivos = fs
+    .readdirSync(capituloFilepath)
+    .filter((arquivo) => arquivo.endsWith(".yaml"));
+  return arquivos.map((arquivo) => join(capituloFilepath, arquivo));
 });
 
-dadosTratados.sort((a, b) => a.ordem - b.ordem);
+function tratarModulo(listaArquivos) {
+  const modulo = {
+    metadados: {},
+    conteudo: listaArquivos.map((arquivo) => yaml.readSync(arquivo)),
+  };
 
-module.exports = dadosTratados;
+  modulo.conteudo = modulo.conteudo.map((dado) => {
+    dado.tipo = "categoria";
+
+    dado.conteudo = dado.conteudo.map((conteudo) => {
+      conteudo.categoria = dado.slug;
+      conteudo.titulo = conteudo.titulo.trim();
+
+      return conteudo;
+    });
+
+    return dado;
+  });
+
+  modulo.conteudo.sort((a, b) => a.ordem - b.ordem);
+
+  return modulo;
+}
+
+const dados = arquivosFilepaths.map((listaArquivos) =>
+  tratarModulo(listaArquivos)
+);
+
+console.log(dados);
+process.exit();
+
+
+module.exports = dados;
