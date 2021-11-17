@@ -1,6 +1,6 @@
 const fs = require("fs");
 const process = require("process");
-const { join } = require("path");
+const { join, parse } = require("path");
 const yaml = require("node-yaml");
 
 const diretorioDados = join(__dirname, "../data");
@@ -16,7 +16,8 @@ const arquivosFilepaths = capitulosFilepaths.map((capituloFilepath) => {
   return arquivos.map((arquivo) => join(capituloFilepath, arquivo));
 });
 
-function tratarConteudo(conteudo) {
+function tratarConteudo(listaArquivos) {
+  const conteudo = listaArquivos.map((arquivo) => yaml.readSync(arquivo));
   let conteduloLocal = conteudo.map((dado) => {
     dado.tipo = "categoria";
 
@@ -35,15 +36,21 @@ function tratarConteudo(conteudo) {
   return conteduloLocal;
 }
 
+function tratarMetadados(listaArquivos) {
+  if (listaArquivos.length === 0) {
+    return {};
+  }
+  const diretorioModulo = parse(listaArquivos[0]).dir;
+  const indexFilename = "index.js";
+  const indexFilepath = join(diretorioModulo, indexFilename);
+  return require(indexFilepath);
+}
+
 function tratarModulo(listaArquivos) {
-  const modulo = {
-    metadados: {},
-    conteudo: listaArquivos.map((arquivo) => yaml.readSync(arquivo)),
+  return {
+    metadados: tratarMetadados(listaArquivos),
+    conteudo: tratarConteudo(listaArquivos),
   };
-
-  modulo.conteudo = tratarConteudo(modulo.conteudo);
-
-  return modulo;
 }
 
 const dados = arquivosFilepaths.map((listaArquivos) =>
@@ -52,6 +59,5 @@ const dados = arquivosFilepaths.map((listaArquivos) =>
 
 console.log(dados);
 process.exit();
-
 
 module.exports = dados;
