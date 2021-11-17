@@ -16,13 +16,8 @@ const arquivosFilepaths = capitulosFilepaths.map((capituloFilepath) => {
   return arquivos.map((arquivo) => join(capituloFilepath, arquivo));
 });
 
-function tratarModulo(listaArquivos) {
-  const modulo = {
-    metadados: {},
-    conteudo: listaArquivos.map((arquivo) => yaml.readSync(arquivo)),
-  };
-
-  modulo.conteudo = modulo.conteudo.map((dado) => {
+function tratarConteudo(conteudo) {
+  let conteduloLocal = conteudo.map((dado) => {
     dado.tipo = "categoria";
 
     dado.conteudo = dado.conteudo.map((conteudo) => {
@@ -35,7 +30,18 @@ function tratarModulo(listaArquivos) {
     return dado;
   });
 
-  modulo.conteudo.sort((a, b) => a.ordem - b.ordem);
+  conteduloLocal.sort((a, b) => a.ordem - b.ordem);
+
+  return conteduloLocal;
+}
+
+function tratarModulo(listaArquivos) {
+  const modulo = {
+    metadados: {},
+    conteudo: listaArquivos.map((arquivo) => yaml.readSync(arquivo)),
+  };
+
+  modulo.conteudo = tratarConteudo(modulo.conteudo);
 
   return modulo;
 }
