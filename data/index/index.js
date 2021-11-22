@@ -1,3 +1,5 @@
 module.exports = {
-    titulo: 'index',
+    root: true,
+    nomeArquivo: 'README',
+    template: 'readme-template.md',
 }
