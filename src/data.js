@@ -57,7 +57,5 @@ const dados = arquivosFilepaths.map((listaArquivos) =>
   tratarModulo(listaArquivos)
 );
 
-console.log(dados);
-process.exit();
 
 module.exports = dados;
