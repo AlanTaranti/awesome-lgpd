@@ -3,14 +3,12 @@ const path = require("path");
 
 const dados = require("./data");
 
-function gerarSumario(data) {
-  return data
-    .map((categoria) => `- [${categoria.titulo}](#${categoria.slug})`)
-    .join("\n");
-}
-
 function gerarSecoes(data) {
   return data.map((categoria) => {
+    if (categoria.softlink) {
+      return `## [${categoria.titulo}](${categoria.softlink})\n\n${categoria.descricao}`;
+    }
+
     const itens = categoria.conteudo
       .map((item) => {
 
@@ -32,21 +30,19 @@ function gerarSecoes(data) {
 function gerarArquivo(data) {
   const metadados = data.metadados;
   const conteudo = data.conteudo;
-  const dirpath = metadados.root ? '..' : '../modulos';
+  const dirpath = metadados.root ? path.join(__dirname, '..') : path.join(__dirname, '..', 'modulos');
   const filename = metadados.nomeArquivo + '.md';
   const filepath = path.join(dirpath, `${filename}`);
-  const readme = path.join(__dirname, filepath);
   const template = path.join(__dirname, metadados.template);
-
-  const sumario = gerarSumario(conteudo)
 
   const secoes = gerarSecoes(conteudo);
 
+  if (!fs.existsSync(dirpath)) { fs.mkdirSync(dirpath) }
+
   let conteudoReadme = fs.readFileSync(template).toString();
-  conteudoReadme = conteudoReadme.replace("- #PLACEHOLDER_SUMARIO#", sumario);
   conteudoReadme = conteudoReadme.replace("#PLACEHOLDER_CATEGORIAS#", secoes);
 
-  fs.writeFileSync(readme, conteudoReadme);
+  fs.writeFileSync(filepath, conteudoReadme);
 }
 
 
