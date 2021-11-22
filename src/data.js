@@ -21,12 +21,16 @@ function tratarConteudo(listaArquivos) {
   let conteduloLocal = conteudo.map((dado) => {
     dado.tipo = "categoria";
 
-    dado.conteudo = dado.conteudo.map((conteudo) => {
-      conteudo.categoria = dado.slug;
-      conteudo.titulo = conteudo.titulo.trim();
+    if (dado.conteudo) {
+      dado.conteudo = dado.conteudo.map((conteudo) => {
+        conteudo.categoria = dado.slug;
+        conteudo.titulo = conteudo.titulo.trim();
 
-      return conteudo;
-    });
+        return conteudo;
+      });
+    } else {
+      dado.conteudo = []
+    }
 
     return dado;
   });
