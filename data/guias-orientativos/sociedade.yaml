@@ -1,0 +1,8 @@
+titulo: Sociedade
+slug: sociedade
+ordem: 3
+conteudo:
+  - titulo: A importância social e econômica da criptografia
+    link: https://cartilhacriptografia.direitosnarede.org.br/cartilhacriptografia.pdf
+    descricao: >
+      Cartilha da Coalizão Direitos na Rede para instruir a sociedade e os formuladores de políticas a respeito da importância social e econômica da criptografia e alertar para os riscos relacionados ao seu enfraquecimento
