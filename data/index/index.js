@@ -1,5 +1,5 @@
 module.exports = {
-    root: true,
-    nomeArquivo: 'README',
-    template: 'readme-template.md',
-}
+  root: true,
+  nomeArquivo: "README",
+  template: "readme-template.md",
+};

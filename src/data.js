@@ -29,7 +29,7 @@ function tratarConteudo(listaArquivos) {
         return conteudo;
       });
     } else {
-      dado.conteudo = []
+      dado.conteudo = [];
     }
 
     return dado;
@@ -60,6 +60,5 @@ function tratarModulo(listaArquivos) {
 const dados = arquivosFilepaths.map((listaArquivos) =>
   tratarModulo(listaArquivos)
 );
-
 
 module.exports = dados;

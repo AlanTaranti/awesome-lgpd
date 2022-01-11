@@ -6,7 +6,7 @@
 
 Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (LGPD) e assuntos correlatos.
 
----------------------------------------------------------
+---
 
 ## Legislação Nacional Relevante
 
@@ -17,11 +17,9 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Decreto nº 8.771 de 2016](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Decreto/D8771.htm) - Indica procedimentos para guarda e proteção de dados por provedores de conexão e de aplicações e aponta medidas de transparência na requisição de dados cadastrais pela administração pública
 - [Código de Defesa do Consumidor](https://www2.senado.leg.br/bdsf/bitstream/handle/id/533814/cdc_e_normas_correlatas_2ed.pdf) - Coletânea de dispositivos constitucionais, códigos e leis principais relativos ao direito do consumidor
 
-
 ## Legislação Internacional Relevante
 
 - [Regulamento (EU) 2016/679](https://gdprinfo.eu/pt-pt) - Regulamento Geral sobre a Proteção de Dados (GPDR)
-
 
 ## Licença
 

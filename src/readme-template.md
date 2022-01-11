@@ -6,7 +6,7 @@
 
 Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (LGPD) e assuntos correlatos.
 
----------------------------------------------------------
+---
 
 #PLACEHOLDER_CATEGORIAS#
 
