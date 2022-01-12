@@ -20,15 +20,18 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Guia de Avaliação de Riscos de Segurança e Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_avaliacao_riscos.pdf) - Orienta a identificação das lacunas de segurança da informação e de privacidade nos sistemas, contratos e processos da instituição
 - [Guia de Resposta a Incidentes de Segurança](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_resposta_incidentes.pdf) - Apresenta melhores práticas para adequação da Administração Pública Federal para resposta a incidentes de segurança e proteção de dados pessoais
 - [Código de Boas Práticas de Proteção de Dados para Prestadores Privados em Saúde](http://cnsaude.org.br/wp-content/uploads/2021/03/Boas-Praticas-Protecao-Dados-Prestadores-Privados-CNSaude_ED_2021.pdf) - Guia que orienta quanto às condutas a serem praticadas pelos hospitais e laboratórios privados, com o objetivo de permitir o correto uso dos dados dos pacientes.
-- [Guide to Basic Data Anonymisation Techniques](<https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-to-Anonymisation_v1-(250118).pdf>) - Guia da Comissão de Proteção de Dados de Singapura que introduz os aspectos técnicos de anonimização de dados
+- [Guide to Basic Data Anonymisation Techniques](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-to-Anonymisation_v1-(250118).pdf) - Guia da Comissão de Proteção de Dados de Singapura que introduz os aspectos técnicos de anonimização de dados
+
 
 ## Agentes de Tratamento
 
 - [Cartilha de Segurança para Internet](https://cartilha.cert.br/) - Documentos com recomendações e dicas sobre como o usuário de Internet deve se comportar para aumentar a sua segurança e se proteger de possíveis ameaças
 
+
 ## Sociedade
 
 - [A importância social e econômica da criptografia](https://cartilhacriptografia.direitosnarede.org.br/cartilhacriptografia.pdf) - Cartilha da Coalizão Direitos na Rede para instruir a sociedade e os formuladores de políticas a respeito da importância social e econômica da criptografia e alertar para os riscos relacionados ao seu enfraquecimento
+
 
 ## Licença
 
