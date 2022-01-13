@@ -1,0 +1,36 @@
+titulo: Frameworks de Segurança da Informação e Privacidade
+slug: frameworks-de-segurança-da-informação-e-privacidade
+ordem: 1
+conteudo:
+  - titulo: NIST Privacy Framework
+    link: https://www.nist.gov/privacy-framework/privacy-framework
+    descricao: >
+      Um framework aberto para melhorar a privacidade por meio do gerenciamento de riscos corporativos
+  - titulo: ISO/IEC 27001:2013
+    link: https://www.iso.org/standard/54534.html
+    descricao: >
+      Framework que especifica os requisitos para estabelecer, implementar, manter e melhorar continuamente um SGSI (Sistema de Gestão de Segurança da Informação) dentro do contexto da organização
+  - titulo: ISO/IEC 27002:2013
+    link: https://www.iso.org/standard/54533.html
+    descricao: >
+      Estipula melhores práticas para apoiar a implantação do SGSI, com diretrizes para práticas de  gestão de segurança da informação e normas de segurança da informação para as organizações
+  - titulo: ISO/IEC 27005:2018
+    link: https://www.iso.org/standard/75281.html
+    descricao: >
+      Apresenta  diretrizes  para  o  processo  de  gestão  de  riscos  de  segurança  da informação de uma organização, atendendo particularmente aos requisitos de um SGSI
+  - titulo: ISO/IEC 27701:2019
+    link: https://www.iso.org/standard/71670.html
+    descricao: >
+      Especifica  os  requisitos  e  fornece  as  diretrizes  para  o  estabelecimento, implementação,  manutenção  e  melhoria  contínua  de  um  SGPI (Sistema  de  Gestão  de  Privacidade  da  Informação)
+  - titulo: ISO/IEC 29100:2011
+    link: https://www.iso.org/standard/45123.html
+    descricao: >
+      Estipula bases conceituais e orienta sobre medidas técnicas no desenvolvimento de um SGPI no âmbito de sistemas de TIC (Tecnologia da Informação e Comunicação)
+  - titulo: ISO/IEC 29134:2017
+    link: https://www.iso.org/standard/62289.html
+    descricao: >
+      Orienta a avaliação de impactos de privacidade e elaboração do Relatório de Impacto à Proteção de Dados
+  - titulo: Framework de Privacidade da OECD
+    link: https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf
+    descricao: >
+      Diretrizes da OECD sobre a Proteção da Privacidade e Fluxos Transfronteiriços de Dados Pessoais
