@@ -4,7 +4,7 @@
   "description": "Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados",
   "scripts": {
     "lint": "prettier --write .",
-    "build": "node src/make-readme.js"
+    "build": "node src/make-readme.js && npm run lint"
   },
   "repository": {
     "type": "git",
