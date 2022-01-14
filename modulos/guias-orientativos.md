@@ -34,6 +34,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 ## Usuários
 
 - [Cartilha de Segurança para Internet](https://cartilha.cert.br/) - Documentos com recomendações e dicas sobre como o usuário de Internet deve se comportar para aumentar a sua segurança e se proteger de possíveis ameaças
+- [Como Proteger seus Dados Pessoais](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/arquivos-de-documentos-de-publicacoes/guia-do-consumidor_como-proteger-seus-dados-pessoais-final.pdf) - Guia orientativo da ANPD para os titulares de dados pessoais, explicando sobre a LGPD e seus direitos
 
 ## Licença
 
