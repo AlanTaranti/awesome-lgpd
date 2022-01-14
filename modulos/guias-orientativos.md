@@ -14,6 +14,8 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
   - [Guia Orientativo para Definições dos Agentes de Tratamento de Dados Pessoais e do Encarregado](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/2021.05.27GuiaAgentesdeTratamento_Final.pdf) - Guia que procura esclarecer os papéis dos agentes de tratamento em encarregados de proteção de dados pessoais
   - [Guia Orientativo de Segurança da Informação para Agentes de Tratamento de Pequeno Porte](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/guia-vf.pdf) - Guia que apresenta boas práticas e medidas básicas de segurança da informação para apoiar os agentes de tratamento de pequeno porte referente ao tratamento de dados pessoais
   - [Guide to Basic Data Anonymisation Techniques](<https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-to-Anonymisation_v1-(250118).pdf>) - Guia da Comissão de Proteção de Dados de Singapura que introduz os aspectos técnicos de anonimização de dados
+- Saúde
+  - [Código de Boas Práticas de Proteção de Dados para Prestadores Privados em Saúde](http://cnsaude.org.br/wp-content/uploads/2021/03/Boas-Praticas-Protecao-Dados-Prestadores-Privados-CNSaude_ED_2021.pdf) - Guia que orienta quanto às condutas a serem praticadas pelos hospitais e laboratórios privados, com o objetivo de permitir o correto uso dos dados dos pacientes.
 - Serviço Público
   - [Guia de Boas Práticas para Implementação da LGPD na Administração Pública Federal](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_lgpd.pdf) - Guia orientativo sobre boas práticas para implementação da LGPD na Administração Pública Federal
   - [Guia de Elaboração de Programa de Governança em Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_governanca_privacidade.pdf) - Orienta a elaboração de um Programa de Governança em Privacidade por órgãos e entidades da Administração Pública Federal
@@ -22,8 +24,6 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
   - [Guia de Requisitos e de Obrigações quanto a Segurança da Informação e Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_requisitos_obrigacoes.pdf) - Orienta as instituições públicas para a especificação de requisitos mínimos necessários de Segurança da Informação e Privacidade em contratações de Soluções de Tecnologia da Informação
   - [Guia de Avaliação de Riscos de Segurança e Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_avaliacao_riscos.pdf) - Orienta a identificação das lacunas de segurança da informação e de privacidade nos sistemas, contratos e processos da instituição
   - [Guia de Resposta a Incidentes de Segurança](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_resposta_incidentes.pdf) - Apresenta melhores práticas para adequação da Administração Pública Federal para resposta a incidentes de segurança e proteção de dados pessoais
-- Saúde
-  - [Código de Boas Práticas de Proteção de Dados para Prestadores Privados em Saúde](http://cnsaude.org.br/wp-content/uploads/2021/03/Boas-Praticas-Protecao-Dados-Prestadores-Privados-CNSaude_ED_2021.pdf) - Guia que orienta quanto às condutas a serem praticadas pelos hospitais e laboratórios privados, com o objetivo de permitir o correto uso dos dados dos pacientes.
 
 ## Sociedade
 
