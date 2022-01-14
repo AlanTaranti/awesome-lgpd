@@ -1,5 +1,4 @@
 const fs = require("fs");
-const process = require("process");
 const { join, parse } = require("path");
 const yaml = require("node-yaml");
 
