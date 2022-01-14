@@ -2,7 +2,16 @@ titulo: Livros
 slug: livros
 ordem: 1
 conteudo:
-  - titulo: Privacidade e Protecao de Dados de Crianças e Adolescentes
-    link: https://itsrio.org/wp-content/uploads/2021/10/Privacidade-e-Protecao-de-Dados-de-Crian%C3%A7as-e-Adolescentes-ITS.pdf
-    descricao: >
-      Livro da ITS Rio que trata sobre os desafios e a legislação sobre a proteção de dados de crianças e adolescentes
+  - titulo: Gratuitos
+    conteudo:
+      - titulo: Privacidade e Protecao de Dados de Crianças e Adolescentes
+        link: https://itsrio.org/wp-content/uploads/2021/10/Privacidade-e-Protecao-de-Dados-de-Crian%C3%A7as-e-Adolescentes-ITS.pdf
+        descricao: >
+          Livro da ITS Rio que trata sobre os desafios e a legislação sobre a proteção de dados de crianças e adolescentes
+
+  - titulo: Pagos
+    conteudo:
+      - titulo: Da Privacidade À Proteção De Dados Pessoais - Danilo Doneda
+        link: https://amzn.to/3zWZd9K
+        descricao: >
+          Livro do Danilo Doneda que procura explicar os fundamento da LGPD e o desenvolvimento do direito à privacidade
