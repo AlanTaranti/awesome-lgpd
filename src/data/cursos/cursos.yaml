@@ -2,11 +2,20 @@ titulo: Cursos
 slug: cursos
 ordem: 1
 conteudo:
-  - titulo: Fundamentos da Lei Geral de Proteção de Dados
-    link: https://www.escolavirtual.gov.br/curso/603
-    descricao: >
-      Curso da SERPRO na Escola Virtual Gov que apresenta os conceitos gerais da LGPD e os impactos desta Lei em processos rotineiros de pessoas e empresas
-  - titulo: Introdução à Lei Brasileira de Proteção de Dados Pessoais
-    link: https://www.escolavirtual.gov.br/curso/153
-    descricao: >
-      Curso da ITS Rio na Escola Virtual Gov que apresenta o funcionamento e diretrizes básicas expostas na nova Lei Geral de Proteção de Dados do Brasil
+  - titulo: Gratuitos
+    conteudo:
+      - titulo: Fundamentos da Lei Geral de Proteção de Dados
+        link: https://www.escolavirtual.gov.br/curso/603
+        descricao: >
+          Curso da SERPRO na Escola Virtual Gov que apresenta os conceitos gerais da LGPD e os impactos desta Lei em processos rotineiros de pessoas e empresas
+      - titulo: Introdução à Lei Brasileira de Proteção de Dados Pessoais
+        link: https://www.escolavirtual.gov.br/curso/153
+        descricao: >
+          Curso da ITS Rio na Escola Virtual Gov que apresenta o funcionamento e diretrizes básicas expostas na nova Lei Geral de Proteção de Dados do Brasil
+
+  - titulo: Pagos
+    conteudo:
+      - titulo: Data Privacy BR
+        link: https://dataprivacy.com.br/cursos/
+        descricao: >
+          Cursos da Data Privacy BR voltados à proteção de dados

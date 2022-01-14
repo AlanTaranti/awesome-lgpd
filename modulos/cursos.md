@@ -10,8 +10,11 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 
 ## Cursos
 
-- [Fundamentos da Lei Geral de Proteção de Dados](https://www.escolavirtual.gov.br/curso/603) - Curso da SERPRO na Escola Virtual Gov que apresenta os conceitos gerais da LGPD e os impactos desta Lei em processos rotineiros de pessoas e empresas
-- [Introdução à Lei Brasileira de Proteção de Dados Pessoais](https://www.escolavirtual.gov.br/curso/153) - Curso da ITS Rio na Escola Virtual Gov que apresenta o funcionamento e diretrizes básicas expostas na nova Lei Geral de Proteção de Dados do Brasil
+- Gratuitos
+  - [Fundamentos da Lei Geral de Proteção de Dados](https://www.escolavirtual.gov.br/curso/603) - Curso da SERPRO na Escola Virtual Gov que apresenta os conceitos gerais da LGPD e os impactos desta Lei em processos rotineiros de pessoas e empresas
+  - [Introdução à Lei Brasileira de Proteção de Dados Pessoais](https://www.escolavirtual.gov.br/curso/153) - Curso da ITS Rio na Escola Virtual Gov que apresenta o funcionamento e diretrizes básicas expostas na nova Lei Geral de Proteção de Dados do Brasil
+- Pagos
+  - [Data Privacy BR](https://dataprivacy.com.br/cursos/) - Cursos da Data Privacy BR voltados à proteção de dados
 
 ## Licença
 
