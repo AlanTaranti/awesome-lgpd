@@ -1,6 +1,6 @@
-titulo: Agentes de Tratamento
-slug: agentes-de-tratamento
-ordem: 1
+titulo: Usuários
+slug: usuarios
+ordem: 3
 conteudo:
   - titulo: Cartilha de Segurança para Internet
     link: https://cartilha.cert.br/
