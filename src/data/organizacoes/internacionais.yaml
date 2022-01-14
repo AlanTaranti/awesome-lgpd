@@ -1,0 +1,28 @@
+titulo: Internacionais
+slug: internacionais
+ordem: 2
+conteudo:
+  - titulo: Global Privacy Enforcement
+    link: https://www.privacyenforcement.net
+    descricao: >
+      Rede de reguladores de privacidade e proteção de dados cuja missão é melhorar a cooperação na aplicação das leis internacionais sobre o tema
+  - titulo: Comissão Nacional de Proteção de Dados - Portugal
+    link: https://www.cnpd.pt/
+    descricao: >
+      Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR em Portugal
+  - titulo: European Data Protection Supervisor
+    link: https://edps.europa.eu/
+    descricao: >
+      Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR da União Européia
+  - titulo: Eletronic Frontier Foundation
+    link: https://www.eff.org/
+    descricao: >
+      Organização sem fins lucrativos que defende as liberdades civis no mundo digital
+  - titulo: International Association of Privacy Professionals
+    link: https://iapp.org/
+    descricao: >
+      Comunidade global de profissionais de privacidade
+  - titulo: Information Commissioner's Office
+    link: https://ico.org.uk/
+    descricao: >
+      Órgão independente do Reino Unido criado para defender os direitos de informação

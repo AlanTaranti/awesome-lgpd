@@ -1,52 +1,6 @@
 titulo: Organizações e Projetos
 slug: organizações-e-projetos
 ordem: 8
-conteudo:
-  - titulo: Nacionais
-    conteudo:
-      - titulo: Autoridade Nacional de Proteção de Dados
-        link: https://www.gov.br/anpd/pt-br
-        descricao: >
-          Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da LGPD
-      - titulo: CERT.br
-        link: https://www.cert.br/
-        descricao: >
-          Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil
-      - titulo: Instituto de Tecnologia e Sociedade do Rio
-        link: https://itsrio.org
-        descricao: >
-          Organização que estuda o impacto e o futuro da tecnologia no Brasil e no mundo
-      - titulo: Data Privacy Brasil
-        link: https://dataprivacy.com.br/
-        descricao: >
-          Intersecção entre o ensino e a pesquisa na área da privacidade e proteção de dados
-      - titulo: Direitos na Rede
-        link: https://direitosnarede.org.br/
-        descricao: >
-          Rede de entidades de organizações acadêmicas e da sociedade civil em defesa dos direitos digitais
-  - titulo: Internacionais
-    conteudo:
-      - titulo: Global Privacy Enforcement
-        link: https://www.privacyenforcement.net
-        descricao: >
-          Rede de reguladores de privacidade e proteção de dados cuja missão é melhorar a cooperação na aplicação das leis internacionais sobre o tema
-      - titulo: Comissão Nacional de Proteção de Dados - Portugal
-        link: https://www.cnpd.pt/
-        descricao: >
-          Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR em Portugal
-      - titulo: European Data Protection Supervisor
-        link: https://edps.europa.eu/
-        descricao: >
-          Orgão responsável por zelar pela proteção dos dados pessoais, e por orientar, regulamentar e fiscalizar o cumprimento da GDPR da União Européia
-      - titulo: Eletronic Frontier Foundation
-        link: https://www.eff.org/
-        descricao: >
-          Organização sem fins lucrativos que defende as liberdades civis no mundo digital
-      - titulo: International Association of Privacy Professionals
-        link: https://iapp.org/
-        descricao: >
-          Comunidade global de profissionais de privacidade
-      - titulo: Information Commissioner's Office
-        link: https://ico.org.uk/
-        descricao: >
-          Órgão independente do Reino Unido criado para defender os direitos de informação
+softlink: "modulos/organizacoes.md"
+descricao: >
+  Organizações e Projetos nacionais e internacionais voltados à proteção de dados pessoais e direitos digitais
