@@ -16,6 +16,13 @@ conteudo:
         link: https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-to-Anonymisation_v1-(250118).pdf
         descricao: >
           Guia da Comissão de Proteção de Dados de Singapura que introduz os aspectos técnicos de anonimização de dados
+
+  - titulo: Eleitoral
+    conteudo:
+      - titulo: Aplicação Da Lei Geral De Proteção De Dados Pessoais Por Agentes De Tratamento No Contexto Eleitoral
+        link: https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/guia_lgpd_final.pdf
+        descricao: >
+          Guia desenvolvido pela ANPD e TSE que traz orientações que buscam garantir a proteção de dados, a privacidade das pessoas titulares e a lisura do processo eleitoral.
   - titulo: Saúde
     conteudo:
       - titulo: Código de Boas Práticas de Proteção de Dados para Prestadores Privados em Saúde
