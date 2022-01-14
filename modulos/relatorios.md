@@ -13,6 +13,7 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 - [Boas Práticas: Proteção de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/08/Relatorio-Boas-Praticas-Criancas-e-Adolescentes.pdf) - Relatório da ITS Rio sobre o cenário brasileiro e experiências internacionais em relação a proteção de dados de crianças e adolescentes
 - [Proteção de Dados Pessoais em Políticas de Proteção Social](https://www.internetlab.org.br/wp-content/uploads/2021/10/Protecao-de-Dados-Pessoais-em-Politicas-de-Protecao-Social.pdf) - Relatório do InternetLab com recomendações que buscam avançar o debate em torno de questões de dados e privacidade em programas de proteção social
 - [Portabilidade de Dados e Direito Concorrencial em Mercados Digitais](https://lapin.org.br/wp-content/uploads/2021/12/relatorio-portabilidade.pdf) - Relatório da LAPIN sobre a relação existente entre o direito à portabilidade de dados previsto na LGPD e o Direito Concorrencial
+- [Vigilância Automatizada: Uso De Reconhecimento Facial Pela Administração Pública](https://lapin.org.br/download/4136/) - Relatório da LAPIN sobre o uso de tecnologias de Reconhecimento Facial pelo setor público brasileiro
 
 ## Licença
 
