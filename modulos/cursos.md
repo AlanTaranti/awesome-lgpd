@@ -10,8 +10,8 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
 
 ## Cursos
 
-- [Boas Práticas: Proteção de Dados de Crianças e Adolescentes](https://itsrio.org/wp-content/uploads/2021/08/Relatorio-Boas-Praticas-Criancas-e-Adolescentes.pdf) - Relatório da ITS Rio sobre o cenário brasileiro e experiências internacionais em relação a proteção de dados de crianças e adolescentes
-- [Proteção de Dados Pessoais em Políticas de Proteção Social](https://www.internetlab.org.br/wp-content/uploads/2021/10/Protecao-de-Dados-Pessoais-em-Politicas-de-Protecao-Social.pdf) - Relatório do InternetLab com recomendações que buscam avançar o debate em torno de questões de dados e privacidade em programas de proteção social
+- [Fundamentos da Lei Geral de Proteção de Dados](https://www.escolavirtual.gov.br/curso/603) - Curso da SERPRO na Escola Virtual Gov que apresenta os conceitos gerais da LGPD e os impactos desta Lei em processos rotineiros de pessoas e empresas
+- [Introdução à Lei Brasileira de Proteção de Dados Pessoais](https://www.escolavirtual.gov.br/curso/153) - Curso da ITS Rio na Escola Virtual Gov que apresenta o funcionamento e diretrizes básicas expostas na nova Lei Geral de Proteção de Dados do Brasil
 
 ## Licença
 
