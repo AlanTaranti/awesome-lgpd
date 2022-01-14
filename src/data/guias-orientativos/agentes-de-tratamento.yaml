@@ -53,3 +53,10 @@ conteudo:
         link: https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_resposta_incidentes.pdf
         descricao: >
           Apresenta melhores práticas para adequação da Administração Pública Federal para resposta a incidentes de segurança e proteção de dados pessoais
+
+  - titulo: Transporte
+    conteudo:
+      - titulo: Guia de Boas Práticas de Proteção de Dados no Setor de Transporte
+        link: https://publicador.sestsenat.org.br/arquivos/b37861f6-e632-45d7-89ca-e8cdbca3d267.pdf
+        descricao: >
+          Guia orientativo que procura estabelecer pradrões e protocolos para tratamento de dados pessoais no setor de transporte

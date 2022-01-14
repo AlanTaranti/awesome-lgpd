@@ -24,6 +24,8 @@ Uma lista curada de recursos sobre a Lei Geral de Proteção de Dados Pessoais (
   - [Guia de Requisitos e de Obrigações quanto a Segurança da Informação e Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_requisitos_obrigacoes.pdf) - Orienta as instituições públicas para a especificação de requisitos mínimos necessários de Segurança da Informação e Privacidade em contratações de Soluções de Tecnologia da Informação
   - [Guia de Avaliação de Riscos de Segurança e Privacidade](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_avaliacao_riscos.pdf) - Orienta a identificação das lacunas de segurança da informação e de privacidade nos sistemas, contratos e processos da instituição
   - [Guia de Resposta a Incidentes de Segurança](https://www.gov.br/governodigital/pt-br/seguranca-e-protecao-de-dados/guias/guia_resposta_incidentes.pdf) - Apresenta melhores práticas para adequação da Administração Pública Federal para resposta a incidentes de segurança e proteção de dados pessoais
+- Transporte
+  - [Guia de Boas Práticas de Proteção de Dados no Setor de Transporte](https://publicador.sestsenat.org.br/arquivos/b37861f6-e632-45d7-89ca-e8cdbca3d267.pdf) - Guia orientativo que procura estabelecer pradrões e protocolos para tratamento de dados pessoais no setor de transporte
 
 ## Sociedade
 
