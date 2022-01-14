@@ -3,7 +3,7 @@ const process = require("process");
 const { join, parse } = require("path");
 const yaml = require("node-yaml");
 
-const diretorioDados = join(__dirname, "../data");
+const diretorioDados = join(__dirname, "./data");
 
 const capitulos = fs.readdirSync(diretorioDados);
 const capitulosFilepaths = capitulos.map((capitulo) =>
